@@ -1,4 +1,4 @@
-# [VSCode Like Code Block](https://emresr.github.io/vscodelike/) - Your own todo app
+# VSCode Like Code Block
 
 VSCode like code block.
 
